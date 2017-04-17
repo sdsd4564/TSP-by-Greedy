@@ -4,6 +4,11 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Random;
 
+/*
+* OS    : Windows 10 Pro 64bit
+* CPU   : Intel(R) Core(TM) i3-6100 CPU @ 3.70Hz 3.70GHz
+* Tool  : IntelliJ IDEA 2016.3.5
+* */
 
 public class Main {
 
